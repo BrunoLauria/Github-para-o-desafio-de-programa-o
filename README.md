@@ -21,6 +21,7 @@
   
 2. Os arquivos dentro das pastas estão nomeados de acordo com cada questão.
 3. Os arquivos estão em java, para executa-lo precisa do pacote java instalado.
+4. Para teste da questão 3, precisa mudar o valor da stringAny("cdcd"), para obter o resultado.
 
 
 # Autor 👨‍🎓
