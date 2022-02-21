@@ -19,7 +19,7 @@
   - [Questão 2](https://github.com/BrunoLauria/Github-para-o-desafio-de-programa-o/blob/main/Questao2/Validacao.java)
   - [Questão 3](https://github.com/BrunoLauria/Github-para-o-desafio-de-programa-o/blob/main/Questao3/Anagrama.java)
   
-2. Os arquivos dentro das pastas estão nomeadas de referente a cada questão.
+2. Os arquivos dentro das pastas estão nomeados de acordo com cada questão.
 3. Os arquivos estão em java, para executa-lo precisa do pacote java instalado.
 
 
